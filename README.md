@@ -15,7 +15,7 @@ This cup holders are however too small for proper usage. I hope we made the righ
 
 <p align="center">
   <img 
-    width="600"
+    width="800"
     height="600"
     src="https://github.com/thomaszipf/3dwrx-Audi-A4-B9-Cup-Holder-Replacement-V1/blob/main/Images/Cup-Holder-Replacement-5.PNG"
   >
@@ -25,7 +25,7 @@ This cup holders are however too small for proper usage. I hope we made the righ
 
 <p align="center">
   <img 
-    width="600"
+    width="800"
     height="600"
     src="https://github.com/thomaszipf/3dwrx-Audi-A4-B9-Cup-Holder-Replacement-V1/blob/main/Images/Cup-Holder-Replacement-2.PNG"
   >
